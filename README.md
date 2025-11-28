@@ -2,12 +2,10 @@
 <h3 align="center">A passionate fullstack developer from VietNam</h3>
 
 <p align="left">
-  <img src="https://komarev.com/ghpvc/?username=minhthinh145&label=Profile%20views&color=0e75b6&style=flat" alt="minhthinh145" />
+  <img src="https://komarev.com/ghpvc/?username=minhthinh145&label=Profile%20views&color=0e75b6&style=flat" alt="minhthinh145" />`
 </p>
 
-- 🔭 I’m currently working on a website E-commerce Project (Backend) [Not named yet](https://github.com/minhthinh145/WebsiteSoldKeyBoard)  
-- 🔭 I’m currently working on a website E-commerce Project (Frontend) [Not named yet](https://github.com/minhthinh145/FrontEnd_WebSite)  
-- 🌱 I’m currently learning **ASP.NET Core , ReactJS , TailwindCSS**  
+- 🌱 Frameworks: **ASP.NET Core , NodeJS, Python Django, ReactJS, Angular , TailwindCSS**  
 - 👨‍💻 All of my projects are available at [My Portfolio](https://minhthinh145.github.io/Portfolio)  
 - 🏫 I'm studying at Ho Chi Minh University of Education [HCMUE](https://hcmue.edu.vn/vi/)  
 - 📫 How to reach me: **minhthinh.221005@gmail.com**
