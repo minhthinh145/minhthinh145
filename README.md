@@ -9,8 +9,8 @@
 
 ### 🚀 About Me
 
-* 💼 **Current Role:** Software Engineer (SWE) at **ETechs** (Digital Transformation in Education).
-* 🌱 **Key Frameworks/Technologies:** **ASP.NET Core**, **NodeJS**, **Java Spring**, **Python Django**, **ReactJS**, **Angular**, **TailwindCSS**.
+* 💼 **Current Role:** Fullstack Engineer (SWE) at **BOSCH Global Software Vietnam**.
+* 🌱 **Key Frameworks/Technologies:** **ReactJS**, **Python Django**, **ASP.NET Core**, **NodeJS**, **Java Spring**, **Angular**, **TailwindCSS**.
 * 👨‍💻 **Portfolio:** All of my projects are available at [My Portfolio](https://minhthinh145.github.io/Portfolio).
 * 🏫 **Education:** Ho Chi Minh University of Education [HCMUE](https://hcmue.edu.vn/vi/).
 * 📧 **Contact:** How to reach me: **minhthinh.221005@gmail.com**.
